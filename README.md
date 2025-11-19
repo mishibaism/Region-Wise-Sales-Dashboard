@@ -1,5 +1,7 @@
 <h1> About Region-Wise-Sales-Dashboard Project</h1>
 
+![Dashboard](assets/RegionSales_dashboard.png)
+
 <h2>Project Overview;</h2>
 Proyek ini adalah dasbor kinerja penjualan satu minggu yang dibangun di Excel, 
 dirancang untuk memvisualisasikan dan menganalisis data penjualan dari 1–7 Juli 2018. 
